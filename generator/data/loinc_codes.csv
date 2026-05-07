@@ -1,0 +1,18 @@
+code,name,unit,ref_low,ref_high
+2339-0,Glucose,mg/dL,70,100
+2160-0,Creatinine,mg/dL,0.6,1.2
+718-7,Hemoglobin,g/dL,12.0,17.5
+4548-4,Hemoglobin A1c,%,4.0,5.6
+2093-3,Total Cholesterol,mg/dL,0,200
+2571-8,Triglycerides,mg/dL,0,150
+13457-7,LDL Cholesterol,mg/dL,0,100
+2085-9,HDL Cholesterol,mg/dL,40,60
+6768-6,TSH,mIU/L,0.4,4.0
+1742-6,ALT,U/L,7,56
+1920-8,AST,U/L,10,40
+6299-2,BUN,mg/dL,7,20
+2823-3,Potassium,mEq/L,3.5,5.0
+2951-2,Sodium,mEq/L,136,145
+789-8,RBC,10*6/uL,4.2,5.9
+777-3,Platelets,10*3/uL,150,400
+6690-2,WBC,10*3/uL,4.5,11.0

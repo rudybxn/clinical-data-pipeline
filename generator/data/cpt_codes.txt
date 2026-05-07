@@ -1,0 +1,38 @@
+# Office visits - new patient
+99201
+99202
+99203
+99204
+99205
+# Office visits - established patient
+99211
+99212
+99213
+99214
+99215
+# Preventive medicine - new patient
+99381
+99382
+99383
+99384
+99385
+99386
+99387
+# Preventive medicine - established patient
+99391
+99392
+99393
+99394
+99395
+99396
+99397
+# Diagnostics and procedures
+93000
+85025
+80053
+80048
+81003
+93005
+36415
+90471
+71046

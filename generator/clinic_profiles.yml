@@ -1,0 +1,27 @@
+clinics:
+  - id: clinic_001
+    name: "Downtown Family Practice"
+    schema_version: "v1"       # patient_dob, flat address, OV encounter type, provider_npi
+    missing_field_rate: 0.05   # 5% of records have a missing field
+    malformed_rate: 0.02       # 2% have malformed data
+    duplicate_rate: 0.03       # 3% are duplicates
+    volume: 500                # patient records per run
+    num_providers: 8
+
+  - id: clinic_002
+    name: "Eastside Urgent Care"
+    schema_version: "v2"       # canonical field names, Male/Female gender
+    missing_field_rate: 0.15
+    malformed_rate: 0.08
+    duplicate_rate: 0.01
+    volume: 200
+    num_providers: 4
+
+  - id: clinic_003
+    name: "Northside Pediatrics"
+    schema_version: "v3"       # birthdate, mixed address, outpatient type, npi_number
+    missing_field_rate: 0.10
+    malformed_rate: 0.05
+    duplicate_rate: 0.06
+    volume: 300
+    num_providers: 5

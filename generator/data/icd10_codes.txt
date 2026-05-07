@@ -1,0 +1,91 @@
+# Respiratory
+J06.9
+J00
+J02.9
+J18.9
+J20.9
+J45.20
+J45.50
+J44.1
+J30.9
+J03.90
+# Cardiovascular
+I10
+I25.10
+I25.9
+I50.9
+I48.91
+I48.11
+I63.9
+I73.9
+I51.9
+I20.9
+# Endocrine/Metabolic
+E11.9
+E11.65
+E11.40
+E13.9
+E03.9
+E05.90
+E78.5
+E78.00
+E11.319
+E66.9
+# Mental Health
+F41.1
+F32.9
+F33.0
+F41.0
+F17.210
+F10.10
+F32.1
+F43.10
+F40.10
+# Musculoskeletal
+M54.5
+M54.4
+M79.3
+M25.511
+M79.7
+M17.11
+M19.90
+M47.812
+M54.2
+M06.9
+# Gastrointestinal
+K21.0
+K57.30
+K92.1
+K58.9
+K59.00
+K29.70
+K52.9
+K40.90
+# Genitourinary
+N39.0
+N18.3
+N40.1
+N92.0
+N63.0
+# Skin
+L40.0
+L20.9
+L30.9
+L50.0
+# Preventive / Well visits
+Z00.00
+Z00.01
+Z12.11
+Z23
+Z79.01
+Z79.4
+Z12.31
+# Symptoms / Signs
+R05
+R51
+R10.9
+R00.0
+R55
+R63.4
+R06.00
+R07.9
