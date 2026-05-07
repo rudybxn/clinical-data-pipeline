@@ -1,0 +1,13 @@
+# --- Phase 1: Data Generator ---
+faker>=19.0.0
+pyyaml>=6.0
+
+# --- Phase 2: Kafka Producer (add when needed) ---
+# kafka-python>=2.0.0
+
+# --- Phase 3: Spark Consumer (add when needed) ---
+# pyspark>=3.5.0
+# snowflake-connector-python>=3.0.0
+
+# --- Phase 5: Monitoring Dashboard (add when needed) ---
+# streamlit>=1.30.0
